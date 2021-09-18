@@ -1,0 +1,43 @@
+nim,nama,semester,mata_kuliah,nilai
+101621001,Rimala Kumar,6,Kecerdasan Buatan,74
+101621001,Rimala Kumar,6,Pengolahan Citra Digital,73
+101621001,Rimala Kumar,6,Sistem Informasi Geografis,67
+101621001,Rimala Kumar,7,Pengantar Studi Pustaka,92
+101621001,Rimala Kumar,7,Kolokium,92
+101621001,Rimala Kumar,8,Skripsi,89
+101621002,Citra Tenggara,6,Sistem Pakar,79
+101621002,Citra Tenggara,6,Kecerdasan Buatan,93
+101621002,Citra Tenggara,6,Pengolahan Citra Digital,91
+101621002,Citra Tenggara,6,Sistem Informasi Geografis,75
+101621002,Citra Tenggara,7,Pengantar Studi Pustaka,86
+101621002,Citra Tenggara,7,Kolokium,87
+101621002,Citra Tenggara,8,Skripsi,94
+101621003,Rani Kumala,5,Sistem Informasi,90
+101621003,Rani Kumala,5,HCI,91
+101621003,Rani Kumala,5,Data Mining,87
+101621003,Rani Kumala,6,Sistem Pakar,82
+101621003,Rani Kumala,6,Kecerdasan Buatan,81
+101621004,Junaedi,5,Sistem Informasi,80
+101621004,Junaedi,5,HCI,84
+101621004,Junaedi,5,Data Mining,53
+101621004,Junaedi,6,Sistem Pakar,79
+101621004,Junaedi,6,Kecerdasan Buatan,59
+101621005,Kameela Malik,1,Pengantar Matematika,46
+101621005,Kameela Malik,2,Kewirausahaan,90
+101621005,Kameela Malik,2,Kalkulus1,58
+101621005,Kameela Malik,2,Pengantar Statistika,50
+101621005,Kameela Malik,3,Basis Data,69
+101621005,Kameela Malik,3,Struktur Data,66
+101621006,Ajeng Jameela,3,Basis Data,90
+101621006,Ajeng Jameela,3,Struktur Data,78
+101621006,Ajeng Jameela,3,Algoritma Pemrograman,76
+101621006,Ajeng Jameela,4,Rangkaian Digital,64
+101621006,Ajeng Jameela,4,RPL,70
+101621007,Dodi Adiyat,1,Pengantar Matematika,57
+101621007,Dodi Adiyat,1,Ekonomi Umum,68
+101621007,Dodi Adiyat,1,Dasar Komputer,87
+101621008,Lora Zanara,1,Pengantar Matematika,88
+101621008,Lora Zanara,1,Ekonomi Umum,86
+101621008,Lora Zanara,1,Dasar Komputer,90
+101621008,Lora Zanara,2,Kalkulus1,87
+101621008,Lora Zanara,2,Pengantar Statistika,79
